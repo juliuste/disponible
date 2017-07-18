@@ -37,7 +37,7 @@ Returns a [readable stream](https://nodejs.org/api/stream.html#stream_readable_s
         top: 'info',
         second: 'butz-diekleinebratwurst'
     },
-    status: 'avail', // other: 'registered', 'sedo-avail', possibly more
+    status: 'avail', // see the list below
     price: {
         registration: 19, // can be undefined, e.g. for status 'sedo-avail'
         registrationPromo: false,
@@ -45,6 +45,28 @@ Returns a [readable stream](https://nodejs.org/api/stream.html#stream_readable_s
     }
 }
 ```
+
+### Status
+
+- `avail`
+- `avail-premium`
+- `avail-on-demand`
+- `avail-preregister`
+- `preregistered`
+- `reserved`
+- `reserved-premium`
+- `registered`
+- `registered-premium`
+- `registered-udag`
+- `avail-sedo`
+- `avail-aftermarket`
+- `error`
+- `invalid`
+- `blocked`
+- `not-allowed`
+- `not-transferable`
+- `in-procedure`
+- `not-availabl`
 
 ## Contributing
 
