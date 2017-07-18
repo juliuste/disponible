@@ -66,7 +66,7 @@ Returns a [readable stream](https://nodejs.org/api/stream.html#stream_readable_s
 - `not-allowed`
 - `not-transferable`
 - `in-procedure`
-- `not-availabl`
+- `not-available`
 
 ## Contributing
 
