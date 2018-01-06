@@ -4,6 +4,7 @@ Check if domain names are still available *(disponible)*. Inofficial, using an e
 
 [![npm version](https://img.shields.io/npm/v/disponible.svg)](https://www.npmjs.com/package/disponible)
 [![Build Status](https://travis-ci.org/juliuste/disponible.svg?branch=master)](https://travis-ci.org/juliuste/disponible)
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/disponible.svg)](https://greenkeeper.io/)
 [![dependency status](https://img.shields.io/david/juliuste/disponible.svg)](https://david-dm.org/juliuste/disponible)
 [![dev dependency status](https://img.shields.io/david/dev/juliuste/disponible.svg)](https://david-dm.org/juliuste/disponible#info=devDependencies)
 [![license](https://img.shields.io/github/license/juliuste/disponible.svg?style=flat)](LICENSE)
