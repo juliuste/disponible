@@ -19,7 +19,7 @@
 	],
 	"dependencies": {
 		"event-source-stream": "^1.5.0",
-		"through2-filter": "^2.0.0",
+		"through2-filter": "^3.0.0",
 		"through2-map": "^3.0.0"
 	},
 	"devDependencies": {
