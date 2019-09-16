@@ -20,7 +20,7 @@ npm install --save disponible
 ## Usage
 
 ```js
-const available = require('disponible')
+const disponible = require('disponible')
 
 const domainStream = disponible(['domain1.de', 'domain2.com', 'domain3.international'])
 
