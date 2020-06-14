@@ -1,5 +1,7 @@
 # disponible
 
+**WARNING: THIS PACKAGE IS UNMAINTAINED AND PROBABLY WON'T FUNCTION CORRECTLY ANYMORE.**
+
 Check if domain names are still available *(disponible)*. Inofficial, using an endpoint by [united-domains.de](http://united-domains.de/). Ask them for permission before using this module in production.
 
 [![npm version](https://img.shields.io/npm/v/disponible.svg)](https://www.npmjs.com/package/disponible)
